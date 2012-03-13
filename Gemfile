@@ -8,11 +8,18 @@ gem 'rails', '3.0.11'
 gem 'sqlite3'
 gem 'heroku'
 
-gem 'rubygems'
 gem 'hpricot'
 gem 'twilio-ruby'
 #gem 'sinatra'
 gem 'builder'
+
+
+gem "haml"
+gem "sass"
+gem "unicorn"
+gem "foreman"
+gem "rack-contrib"
+
 
 # Use unicorn as the web server
 # gem 'unicorn'
